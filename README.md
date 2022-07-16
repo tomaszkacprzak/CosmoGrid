@@ -1,2 +1,2 @@
 # CosmoGrid
-Tools for processing the CosmoGrid simulations
+Tools for processing and testing the CosmoGrid simulations
